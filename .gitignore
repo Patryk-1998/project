@@ -5,7 +5,7 @@ node_modules/
 
 # Parcel
 .cache/
-dist/
+
 
 # macOS
 .DS_Store
