@@ -1,0 +1,14 @@
+# .gitignore
+
+# Node.js
+node_modules/
+
+# Parcel
+.cache/
+dist/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
